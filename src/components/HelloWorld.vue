@@ -108,15 +108,15 @@
 
 <script>
 export default {
-  destroyed () {
-
-  },
   name: 'HelloWorld',
   props: {
     msg: {
       type: String,
       default: ''
     }
+  },
+  destroyed () {
+
   }
 }
 </script>

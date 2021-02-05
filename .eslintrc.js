@@ -47,6 +47,7 @@ module.exports = {
           "computed",
           "watch",
           "watchQuery",
+          "LIFECYCLE_HOOKS",
           "methods",
           ["template", "render"],
           "renderError"
